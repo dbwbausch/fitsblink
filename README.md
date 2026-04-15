@@ -1,2 +1,2 @@
 # fitsblink
-Fast and convenient FITS viewer to quickly view and delete images with star trailing, clouds, etc
+FITS/XISF Viewer für Windows und macOS, inspiriert von PixInsight Blink
